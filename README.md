@@ -7,5 +7,4 @@
 ---
 
 ### Un poco de mis proyectos :loudspeaker: 
-<img src="https://user-images.githubusercontent.com/82038942/190834666-963c04c7-13cb-4239-b487-1dfd8aa839ff.png
-">
+![image](https://user-images.githubusercontent.com/82038942/190834695-48610400-70a6-43d9-a213-69d46140db80.png)
