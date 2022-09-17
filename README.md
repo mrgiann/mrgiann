@@ -1,9 +1,10 @@
 ### Holaa, soy MrGiann 👋
-![Profile views](https://gpvc.arturio.dev/mrgiann)
+
 ---
  
  👩‍💻 Actualmente estudiando javascript.
-
+ 
+![Profile views](https://gpvc.arturio.dev/mrgiann)
 ---
 
 ### Un poco de mis proyectos :loudspeaker: 
