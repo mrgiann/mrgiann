@@ -2,7 +2,7 @@
 
 ---
  
- 👩‍💻 Actualmente Estudiando javascript.
+ 👩‍💻 Actualmente estudiando javascript.
 
 ---
 
