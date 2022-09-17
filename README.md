@@ -2,11 +2,8 @@
 
 ---
  
- 👩‍💻 Actualmente Estudiando.
+ 👩‍💻 Actualmente Estudiando javascript.
 
 ---
 
-
-
----
 ### Un poco de mis proyectos :loudspeaker: 
