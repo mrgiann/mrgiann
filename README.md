@@ -20,6 +20,7 @@ About Me:
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-the-badge&logo=python&logoColor=white)
 <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white)
