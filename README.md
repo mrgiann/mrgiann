@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi there 👋, my name is Renzo<br>I am a Front-end web developer<br>
 
+[![](https://visitcount.itsvg.in/api?id=mrgiann&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Pmfc7CT9yt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/giannhg_/)
@@ -15,8 +16,6 @@ Hi there 👋, my name is Renzo<br>I am a Front-end web developer<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrgiann&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=mrgiann&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Un poco de mis proyectos :loudspeaker: 
 
