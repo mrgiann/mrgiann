@@ -17,6 +17,8 @@ About Me:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-the-badge&logo=css3&logoColor=white)
 <br>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-the-badge&logo=python&logoColor=white)
 <br>
