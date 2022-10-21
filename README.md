@@ -5,12 +5,9 @@
 
 About Me:
 
-- 🎓 I’m a web developer and soon a mobile developer.
-- 🌱 I am currently learning React in deep.
-- 🧪 I will start learning about cybersecurity.
-- 👯 I’m looking to collaborate on React, NodeJs or Nestjs Projects.
-- 💬 Ask me about TypeScript, React, NodeJs, NestJs, and Postgres.
-- 😄 Nicknames: Chris.
+- 🎓 I’m a web developer 
+- 🌱 I am currently learning PHP
+- 😄 Nicknames: Giann
 
 ### Languages, Technologies and Tools:
 <strong style="margin-bottom: 10px; display:block;"></strong>
