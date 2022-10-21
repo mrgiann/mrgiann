@@ -17,7 +17,7 @@ Hi there 👋, my name is Renzo<br>I am a Front-end web developer<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrgiann&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### Un poco de mis proyectos :loudspeaker: 
+### My projects :loudspeaker: 
 
 *RgLibrary*
 
