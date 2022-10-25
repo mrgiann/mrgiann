@@ -3,12 +3,6 @@
 <img src="https://komarev.com/ghpvc/?username=mrgiann&color=blueviolet">
 <img align="right" alt="GIF" src="https://media.tenor.com/Sv3N-gWVSTYAAAAC/comfy-pepe.gif" />
 
-About Me:
-
-- 🎓 I’m a web developer 
-- 🌱 I am currently learning PHP
-- 😄 Nicknames: Giann
-
 ### Languages, Technologies and Tools:
 <strong style="margin-bottom: 10px; display:block;"></strong>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-the-badge&logo=html5&logoColor=white)
