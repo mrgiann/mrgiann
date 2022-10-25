@@ -1,7 +1,6 @@
 # Hi there, I'm Renzo 👋
 
 <img src="https://komarev.com/ghpvc/?username=mrgiann&color=blueviolet">
-<img align="right" alt="GIF" src="https://media.tenor.com/Sv3N-gWVSTYAAAAC/comfy-pepe.gif" />
 
 ### Languages, Technologies and Tools:
 <strong style="margin-bottom: 10px; display:block;"></strong>
@@ -18,10 +17,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white)
 <br>
 
- 
 ![All Stats](https://github-readme-stats.vercel.app/api?username=mrgiann&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=vue-dark&hide_border&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Juanies&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrgiann&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgiann&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ![](https://github-profile-trophy.vercel.app/?username=mrgiann&theme=radical&no-frame=true&no-bg=true&margin-w=4)
