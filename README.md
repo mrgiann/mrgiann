@@ -18,11 +18,8 @@
 <br>
 
 ![All Stats](https://github-readme-stats.vercel.app/api?username=mrgiann&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=vue-dark&hide_border&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrgiann&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgiann&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-![](https://github-profile-trophy.vercel.app/?username=mrgiann&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
 
