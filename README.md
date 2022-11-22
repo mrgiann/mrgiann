@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=40&pause=1000&color=A7F7BC&center=true&vCenter=true&width=700&height=70&lines=Hi!+Im+Ceci%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;I'm+Software+Developer%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&pause=1000&color=296400&center=true&width=435&lines=Hello!+I'm+MrGiann)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=mrgiann&color=blueviolet">
 
