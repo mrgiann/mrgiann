@@ -1,5 +1,5 @@
-<h1 aling="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&pause=1000&color=296400&center=true&width=435&lines=Hello!+I'm+MrGiann;I'm+Software+Developer)](https://git.io/typing-svg)</h1>
-        
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=40&pause=1000&color=A7F7BC&center=true&vCenter=true&width=700&height=70&lines=Hi!+Im+MrGiann;I'm+Software+Developer%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
+ 
 <img src="https://komarev.com/ghpvc/?username=mrgiann&color=blueviolet">
 
 ### Languages, Technologies and Tools:
