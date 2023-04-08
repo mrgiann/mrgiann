@@ -46,5 +46,5 @@
 ![All Stats](https://github-readme-stats.vercel.app/api?username=mrgiann&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=vue-dark&hide_border&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgiann&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://github.com/mrgiann?tab=repositories"><img src="https://raw.githubusercontent.com/mrgiann/mrgiann/output/github-contribution-grid-snake-dark.svg"></a>
+<a href="https://github.com/mrgiann?tab=repositories"><img src="https://raw.githubusercontent.com/MrGiann/mrgiann/output/github-contribution-grid-snake-dark.svg"></a>
 
