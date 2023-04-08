@@ -3,17 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=mrgiann&color=blueviolet">
 
 ### Languages, Technologies and Tools:
-<strong style="margin-bottom: 10px; display:block;"></strong>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-the-badge&logo=css3&logoColor=white)
-<br>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-<br>
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-the-badge&logo=python&logoColor=white)
-<br>
+
 
 <p align="center">
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="HTML5"
@@ -22,6 +12,7 @@
            src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
            src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></a>
+        <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Python"
            src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
