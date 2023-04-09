@@ -38,7 +38,7 @@
            src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"></a>
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Git"
            src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=Git&logoColor=white"></a>
-         ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white)
+         [GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white)
 </p>
 
 
