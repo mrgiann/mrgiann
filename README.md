@@ -38,10 +38,10 @@
            src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"></a>
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Git"
            src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=Git&logoColor=white"></a>
+         ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white)
 </p>
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white)
-<br>
+
 
 ![All Stats](https://github-readme-stats.vercel.app/api?username=mrgiann&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=vue-dark&hide_border&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgiann&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
