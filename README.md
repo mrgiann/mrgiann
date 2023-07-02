@@ -19,7 +19,6 @@
 <img alt="Salesforce" src="https://img.shields.io/badge/-SOQL Apex-1798c1?style=flat-square&logo=Salesforce&logoColor=white">
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=Redux&logoColor=white">
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
-<img alt="MicrosofTeam" src="https://img.shields.io/badge/-Microsoft Teams-505AC9?style=flat-square&logo=MicrosoftTeams&logoColor=white">
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=Git&logoColor=white">
 <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white">
