@@ -11,15 +11,8 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/-React.js-9b3675?style=flat-square&logo=React&logoColor=white">
-<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-303030?style=flat-square&logo=Express&logoColor=white">
-<img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-487DB2?style=flat-square&logo=Sequelize&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white">
-<img alt="Salesforce" src="https://img.shields.io/badge/-Salesforce-1798c1?style=flat-square&logo=Salesforce&logoColor=white">
 <img alt="Node" src="https://img.shields.io/badge/-Node.js-44883e?style=flat-square&logo=Node.js&logoColor=white">
-<img alt="Salesforce" src="https://img.shields.io/badge/-SOQL Apex-1798c1?style=flat-square&logo=Salesforce&logoColor=white">
-<img alt="Redux" src="https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=Redux&logoColor=white">
-<img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
-<img alt="Amazon AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=Git&logoColor=white">
 <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white">
 </p>
