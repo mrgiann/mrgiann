@@ -2,7 +2,7 @@
  
 <img src="https://komarev.com/ghpvc/?username=mrgiann&color=blueviolet">
 
-### ⚙️ &nbsp;Languages, Technologies and Tools:
+### 📖 &nbsp;Languages, Technologies and Tools:
 
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> 
