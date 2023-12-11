@@ -2,7 +2,7 @@
  
 <img src="https://komarev.com/ghpvc/?username=mrgiann&color=blueviolet">
 
-### Languages, Technologies and Tools:
+### ⚙️ &nbsp;Languages, Technologies and Tools:
 
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> 
@@ -15,6 +15,8 @@
 <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=Git&logoColor=white">
 <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white">
 </p>
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/mrgiann">
