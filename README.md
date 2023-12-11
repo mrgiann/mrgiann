@@ -16,12 +16,6 @@
 <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white">
 </p>
 
-
-![All Stats](https://github-readme-stats.vercel.app/api?username=mrgiann&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=vue-dark&hide_border&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgiann&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
 <p align="center">
 <a href="https://github.com/mrgiann">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrgiann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
